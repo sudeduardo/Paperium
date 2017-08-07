@@ -12,9 +12,6 @@ breve descrição **Lorem ipsum dolor sit amet, consectetur adipisicing elit. La
 ![Pesquisa](Funcionalidades/Gênero%20-%20Pesquisa%20Livros%20Digitais.png)
 > Descrição sobre a imagem
 
-![HomePage-Normal](Funcionalidades/'Home(Deslogada)-Generos'.png)
-> Descrição sobre a imagem
-
 ![HomePage-Logged](Funcionalidades/Home(logada).png)
 > Descrição sobre a imagem
 
