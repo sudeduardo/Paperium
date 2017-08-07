@@ -9,7 +9,7 @@ breve descrição **Lorem ipsum dolor sit amet, consectetur adipisicing elit. La
 ![Login](Funcionalidades/Cadastro.png)
 > Descrição sobre a imagem
 
-![Login](Funcionalidades/"Gênero - Pesquisa Livros Digitais".png)
+![Login](Funcionalidades/Gênero%20-%20Pesquisa%20Livros%20Digitais.png)
 > Descrição sobre a imagem
 
 ![Login](Funcionalidades/Home(Deslogada)-Generos.png)
@@ -18,9 +18,9 @@ breve descrição **Lorem ipsum dolor sit amet, consectetur adipisicing elit. La
 ![Login](Funcionalidades/Home(logada).png)
 > Descrição sobre a imagem
 
-![Login](Funcionalidades/"Login-Modal Recuperar Senha".png)
+![Login](Funcionalidades/Login-Modal%20Recuperar%20Senha.png)
 > Descrição sobre a imagem
 
-![Login](Funcionalidades/"Modal Alterar Senha".png)
+![Login](Funcionalidades/Modal%20Alterar%20Senha.png)
 > Descrição sobre a imagem
 
