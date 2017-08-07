@@ -10,15 +10,15 @@ Trabalho de Conclusão de Curso como objetivo de aumentar o  alcance da leitura 
 </ul>
 <h2>Configurar o servidor</h2>
 <ol>
-<li> Clone ou baixe o repositório ``git clone https://github.com/sudeduardo/Paperium.git`` </li>
-<li> Entre dentro de `Paperium` ``cd Paperium `` </li>
-<li> Execute `composer install` </li>
+<li> Clone ou baixe o repositório git clone https://github.com/sudeduardo/Paperium.git </li>
+<li> Entre dentro de Paperium -> cd Paperium  </li>
+<li> Execute composer install </li>
 <li> Crie um database no mysql: `CREATE DATABASE Paperium;` </li>
 <li> Configure o .env: 
-        DB_DATABASE=Paperium 
-        DB_USERNAME=root 
-        DB_PASSWORD=password
+        DB_DATABASE=Paperium <br>
+        DB_USERNAME=root <br>
+        DB_PASSWORD=password<br>
         <li> Execute php artisan migrate</li>
-<li> E para abrir o servidor: `php artisan serve` </li>
-<li>. Abra http://localhost:8000/</li>
+<li> E para abrir o servidor: php artisan serve </li>
+<li> Abra http://localhost:8000/</li>
 </ol>
