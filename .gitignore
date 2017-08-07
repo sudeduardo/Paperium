@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+/.idea
+/nbproject
+/public/img/genero
+/public/img/livro
+/public/img/leitor
+/public/pdf.js/web/pdf
+_ide_helper.php
