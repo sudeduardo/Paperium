@@ -1,23 +1,25 @@
 # Paperium
-Trabalho de Conclusão de Curso como objetivo de aumentar o  alcance da leitura proporcionado pela Biblioteca Publica de Mogi Mirim através de um sistema de web de leitura a acesso a informações de catalogo físico de Livros  
+![Login](inicio.png)
+>Trabalho de Conclusão de Curso como objetivo de aumentar o  alcance da leitura proporcionado pela Biblioteca Publica de Mogi Mirim através de um sistema de web de leitura a acesso a informações de catalogo físico de Livros  
 
-
-## Quais as funcionalidades de Paperium?
-* * * 
-breve descrição **Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore tenetur magni ipsum aperiam perspiciatis, delectus sint dolore consequuntur, ipsam itaque quisquam vitae beatae dolorem. Accusamus, sint reiciendis consectetur. Sequi, vitae. Sapiente dicta, reiciendis magnam odit, debitis voluptas deserunt. Adipisci, reprehenderit.**
-
-![Login](Funcionalidades/Cadastro.png)
-> Descrição sobre a imagem
-
-![Pesquisa](Funcionalidades/Gênero%20-%20Pesquisa%20Livros%20Digitais.png)
-> Descrição sobre a imagem
-
-![HomePage-Logged](Funcionalidades/Home(logada).png)
-> Descrição sobre a imagem
-
-![Recovery](Funcionalidades/Login-Modal%20Recuperar%20Senha.png)
-> Descrição sobre a imagem
-
-![ChangePW](Funcionalidades/Modal%20Alterar%20Senha.png)
-> Descrição sobre a imagem
-
+<h2>Repositórios usados:</h2>
+<ul>
+<li>dog-ears Multi Auth https://github.com/dog-ears/laravel-multi-auth</li>
+<li>cauoecs Laravel-lang https://github.com/caouecs/Laravel-lang</li>
+<li>jessengers Date https://github.com/jenssegers/date
+<li>intervention Image https://github.com/Intervention/image</li>
+</ul>
+<h2>Configurar o servidor</h2>
+<ol>
+<li> Clone ou baixe o repositório git clone https://github.com/sudeduardo/Paperium.git </li>
+<li> Entre dentro de Paperium -> "cd Paperium"  </li>
+<li> Execute "composer install" </li>
+<li> Crie um database no mysql: "CREATE DATABASE Paperium;" </li>
+<li> Configure o ".env": <br>
+        DB_DATABASE=Paperium <br>
+        DB_USERNAME=root <br>
+        DB_PASSWORD=password<br>
+<li> Execute php artisan migrate</li>
+<li> E para abrir o servidor: php artisan serve </li>
+<li> Abra http://localhost:8000/</li>
+</ol>
